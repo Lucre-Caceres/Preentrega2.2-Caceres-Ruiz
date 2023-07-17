@@ -1,0 +1,6 @@
+.greeting{
+    font-family: ubuntu;
+    color: black;
+    font-size: 30px;
+    display: flex;
+}
